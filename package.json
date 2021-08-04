@@ -15,8 +15,8 @@
 		}
 	},
 	"dependencies": {
-		"react": "^18.0.0-alpha-6f3fcbd6f-20210730",
-		"react-dom": "^18.0.0-alpha-6f3fcbd6f-20210730",
+		"react": "18.0.0-alpha-ed6c091fe-20210701",
+		"react-dom": "18.0.0-alpha-ed6c091fe-20210701",
 		"react-router-dom": "^5.2.0"
 	},
 	"devDependencies": {
