@@ -47,7 +47,6 @@ export default function () {
   };
   return (
     <div>
-      请输入商品关键字
       <input value={keyword} onChange={handleChange} />
       <Suggestion keyword={deferredText} />
     </div>
