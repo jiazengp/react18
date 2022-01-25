@@ -4,7 +4,6 @@ import reactRefresh from '@vitejs/plugin-react-refresh'
 console.log(process.env.BASE)
 export default defineConfig({
   mode: process.env.NODE_ENV,
-  base: process.env.BASE || "react18",
   publicDir: "public",
   plugins: [reactRefresh()],
   server: {
