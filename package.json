@@ -29,7 +29,7 @@
 		"conventional-changelog-cli": "^2.1.1",
 		"cz-conventional-changelog": "^3.3.0",
 		"husky": "^7.0.1",
-		"sass": "1.37.5",
+		"sass": "1.80.4",
 		"typescript": "4.4.2",
 		"validate-commit-msg": "^2.14.0",
 		"vite": "2.9.9"
